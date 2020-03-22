@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f59d217.chunk.css",
+    "main.js": "/static/js/main.9ecedfd8.chunk.js",
+    "main.js.map": "/static/js/main.9ecedfd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe3d2bbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe3d2bbf.js.map",
+    "static/js/2.21c355da.chunk.js": "/static/js/2.21c355da.chunk.js",
+    "static/js/2.21c355da.chunk.js.map": "/static/js/2.21c355da.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8727bcc8da1fa557776af9b1c110e644.js": "/precache-manifest.8727bcc8da1fa557776af9b1c110e644.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7f59d217.chunk.css.map": "/static/css/main.7f59d217.chunk.css.map",
+    "static/js/2.21c355da.chunk.js.LICENSE.txt": "/static/js/2.21c355da.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/TTNormsRegular.e9ca04f4.woff2",
+    "static/media/facebook.svg": "/static/media/facebook.f90ff7df.svg",
+    "static/media/instagram.svg": "/static/media/instagram.3c697334.svg",
+    "static/media/kerim-vika.svg": "/static/media/kerim-vika.089b67e3.svg",
+    "static/media/kerim.svg": "/static/media/kerim.c52b5d6e.svg",
+    "static/media/logo-nrg.svg": "/static/media/logo-nrg.0e56ed41.svg",
+    "static/media/logo-vector2.svg": "/static/media/logo-vector2.932b6d72.svg",
+    "static/media/not-for-all.svg": "/static/media/not-for-all.c29ac0d3.svg",
+    "static/media/stock01.svg": "/static/media/stock01.03acbdeb.svg",
+    "static/media/stock02.svg": "/static/media/stock02.f1421f0c.svg",
+    "static/media/taina-muzy2.svg": "/static/media/taina-muzy2.884d71a6.svg",
+    "static/media/vk.svg": "/static/media/vk.a5b4abf0.svg",
+    "static/media/young-lider.svg": "/static/media/young-lider.0ed94578.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3d2bbf.js",
+    "static/js/2.21c355da.chunk.js",
+    "static/css/main.7f59d217.chunk.css",
+    "static/js/main.9ecedfd8.chunk.js"
+  ]
+}
