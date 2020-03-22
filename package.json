@@ -2,6 +2,7 @@
   "name": "nrg-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aamree.github.io/nrg-landing",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
@@ -13,6 +14,8 @@
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
+    "gh-pages": "^2.2.0",
+    "global": "^4.4.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.8",
     "node-sass": "^4.13.1",
@@ -23,6 +26,7 @@
     "react-id-swiper": "^3.0.0",
     "react-scripts": "3.4.0",
     "react-transition-group": "^4.3.0",
+    "roast": "^2.3.14",
     "swiper": "^5.3.6"
   },
   "scripts": {
@@ -30,7 +34,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "precommit": "pretty-quick --staged"
+    "precommit": "pretty-quick --staged",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

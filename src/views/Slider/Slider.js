@@ -6,6 +6,10 @@ import { Typography } from "@material-ui/core";
 const useStyles = makeStyles(theme => ({
   root: {
     width: "1200px",
+    [theme.breakpoints.down("lg")]: {},
+    [theme.breakpoints.down("md")]: {
+      width: "600px"
+    },
     margin: "0 auto"
   },
   item: {
@@ -47,6 +51,28 @@ const Slider = props => {
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev"
+    },
+    breakpoints: {
+      1022: {
+        slidesPerView: 3,
+        spaceBetween: 20
+      },
+      1024: {
+        slidesPerView: 4,
+        spaceBetween: 40
+      },
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 30
+      },
+      640: {
+        slidesPerView: 2,
+        spaceBetween: 20
+      },
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 10
+      }
     }
   };
 
